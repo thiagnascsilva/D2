@@ -1,0 +1,12 @@
+runewords = [[['Name: Ancient\'s Pledge'],['Ral', 'Ort', 'Tal'],25, ['+50% Enhanced Defense'],
+              ['Cold Resist +43%'],['Fire Resist +48%'],['Lightning Resist +48%'],['Poison Resist +48% Total'],['10% Damage Goes To Mana']],
+             [['Name: Spirit'], ['Tal', 'Thul', 'Ort', 'Amn'], 21]]
+c = len(runewords)
+i = 0
+def level(a):
+  i = 0
+  while i < len(runewords):
+    if a < runewords[i][2]:
+      print(runewords[i])
+      i = i+1
+level(20)
