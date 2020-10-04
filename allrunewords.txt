@@ -1,1 +1,0 @@
-[[['Name: Ancient\'s Pledge'], ['Shield', 'Paladin Shield'], ['Ral', 'Ort', 'Tal'], 25, ['+50% Enhanced Defense'], ['Cold Resist +43%'], ['Fire Resist +48% (Ral=35%)'], ['Lightning Resist +48% (Ort=35%)'], ['Poison Resist +48% (Tal=35%)'], ['10% Damage Goes To Mana']]]
